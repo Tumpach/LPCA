@@ -12,7 +12,7 @@ eigenvalues of the global PCA in such a way that:
 3. the angle between the main eigenvector of each class and the main eigenvector
 of the whole dataset is preserved.
  
-LPCA is a function:
+LPCA is a MATLAB function:
 positions = lpca(data, labels)
 
 DIMENSION OF THE DATASET
